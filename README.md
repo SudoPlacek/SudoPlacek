@@ -1,34 +1,51 @@
-<h3 align="center">A passionate developer from Ukraine</h3>
+<h1 align="left">I'm placek</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- сюда можно добавить ссылки на соцсети или email, если нужно -->
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+<div align="left">
+    <p>
+        <img alt="count" src="https://count.getloli.com/@placek?name=placek&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0">
+    </p>
+</div>
+
+###
+
+<h2 align="left">🛠️ Tech Stack</h2>
+
+<div align="left">
+  <h3>🚀 Languages</h3>
+  <img src="https://skillicons.dev/icons?i=cpp,asm" alt="Languages" />
+  
+  <h3>🧰 Technologies</h3>
+  <img src="https://skillicons.dev/icons?i=unreal,docker,git,linux" alt="Technologies" />
+  
+  <h3>💻 Daily Tools</h3>
+  <img src="https://skillicons.dev/icons?i=vscode,neovim,blender,firefox" alt="Daily Tools" />
+</div>
+
+###
+
+<h2 align="left">💻 Operating Systems</h2>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge" height="28" alt="Arch Linux"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="28" alt="Windows"/>
+</div>
+
+###
+
+<h2 align="left">📫 Connect With Me</h2>
+
+<div align="left">
+  <a href="https://t.me/placek" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="28" alt="Telegram"/>
   </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Assembly-language-icon.svg" alt="assembly" width="40" height="40"/>
-  </a>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://leetcard.jacoblin.cool/placek?theme=dark&font=Noto%20Sans%20SC&ext=heatmap" alt="LeetCode Stats"/>
+</div>
+
 </p>
