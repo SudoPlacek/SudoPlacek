@@ -29,7 +29,7 @@
 <h2 align="left">📫 Connect With Me</h2>
 
 <div align="left">
-  <a href="https://t.me/placek" target="_blank">
+  <a href="https://t.me/Artem8401" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="28" alt="Telegram"/>
   </a>
 </div>
