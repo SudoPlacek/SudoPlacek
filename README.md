@@ -7,7 +7,7 @@
 <div align="left">
   <h3>🚀 Languages</h3>
   <img src="https://img.shields.io/badge/Assembly-blue?style=for-the-badge" alt="Assembly" width="100" height="100"/>
-  <img src="https://img.shields.io/badge/%D0%A1%2B%2B-blue?style=for-the-badge&logoSize=10" alt="C++" width="55" height="55"/>
+  <img src="https://img.shields.io/badge/%D0%A1%2B%2B-blue?style=for-the-badge&logoSize=10" alt="C++" width="56" height="56"/>
   
   <h3>🧰 Technologies</h3>
   <img src="https://skillicons.dev/icons?i=unreal,docker,git,linux" alt="Technologies" />
